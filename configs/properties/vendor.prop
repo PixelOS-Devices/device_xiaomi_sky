@@ -206,7 +206,6 @@ vendor.display.idle_time=0
 vendor.display.svi.config=1
 vendor.display.svi.config_path=/vendor/etc/SVIConfig.xml
 vendor.display.use_smooth_motion=1
-vendor.display.vds_allow_hwc=true
 
 # DPM
 persist.vendor.dpm.vndr.idletimer.mode=default
